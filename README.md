@@ -1,4 +1,4 @@
-# traefix
+# traefik on DockerforWindows
 A dockerfile with a simple tweak for bringing up Traefik with automatic cert on DockerforWindows... Complete with a preloaded chmod 600 acme.json.
 
 1. Build the image - docker build -t {YourTag} .
